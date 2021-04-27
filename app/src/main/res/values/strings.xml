@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">FApp</string>
+    <string name="welcome_in_my_app">enter your info</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>
+
+
